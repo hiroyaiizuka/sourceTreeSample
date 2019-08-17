@@ -4,3 +4,5 @@ guten
 ohayo
 checkout test
 huga
+hogehoge
+hogehuga
