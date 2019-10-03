@@ -9,4 +9,5 @@ hogehuga
 tweet
 twetter
 facebook
+新しいことを書きました
 
