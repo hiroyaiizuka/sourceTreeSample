@@ -10,4 +10,8 @@ tweet
 twetter
 facebook
 新しいことを書きました
+git 
+操作が
+なれません
 
+SSH どうしよう
