@@ -4,7 +4,7 @@ guten
 ohayo
 checkout test
 huga
-hogehoge
+hogeれば
 hogehuga
 tweet
 twetter
