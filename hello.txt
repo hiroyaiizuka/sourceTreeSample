@@ -6,7 +6,7 @@ checkout test
 huga
 hogeれば
 hogehuga
-tweet
+twetter でいきる
 twetter
 facebook
 新しいことを書きました
