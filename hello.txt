@@ -1,17 +1,3 @@
-hello
-konnitiwa
-guten
-ohayo
-checkout test
-huga
-hogehoge
-hogehuga
-tweet
-twetter
-facebook
-新しいことを書きました
-git 
-操作が
-なれません
+アイウエオ
+かきくけこ
 
-SSH どうしよう
