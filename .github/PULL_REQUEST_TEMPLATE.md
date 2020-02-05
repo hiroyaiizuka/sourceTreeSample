@@ -1,5 +1,3 @@
-<!-- あくまでテンプレートなので必ずしもすべての項目を埋めなくてよい -->
-
 ## Related URLs
 
 - Wiki
@@ -9,7 +7,7 @@
 
 ## Purposes
 
-- write briefly. (one line OK)
+- Write briefly (one line OK).
 
 ## Overviews
 
@@ -17,7 +15,7 @@
 - What is the problem?
 - How do you solve this problem?
 
-## Technicals
+## Techniques
 
 - Write the essential points briefly.
 - Explain the logics and flows.
@@ -32,8 +30,8 @@
 
 ## Concerns
 
-- where you feel nervous.
-- where you want reviewers to check intensively.
+- What you feel nervous.
+- What you want reviewers to check intensively.
 
 ## Priority of Review
 
