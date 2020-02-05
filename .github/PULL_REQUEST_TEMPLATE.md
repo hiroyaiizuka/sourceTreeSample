@@ -1,54 +1,42 @@
 <!-- あくまでテンプレートなので必ずしもすべての項目を埋めなくてよい -->
 
-<!-- 要望のテンプレート -->
-## 関連URL
+## Related URLs
 
-* Wiki
-* 関連Issue
-* UI フロー
-* など
+- Wiki
+- Issue
+- UI flow
+- Reference (StackOverFlow, Official Document etc)
 
-## 目的
+## Purposes
 
-* 実装の目的を一文ぐらいで
+- write briefly. (one line OK)
 
-## 概要
+## Overviews
 
-* なぜこの変更をするのか
-* 現状の問題点は何か
-* これによってどう解決されるのか、
-* など、この変更に対する概要を記載
+- Why you implement Codes?
+- What is the problem?
+- How do you solve this problem?
 
+## Technicals
 
-## 技術的変更点
+- Write the essential points briefly.
+- Explain the logics and flows.
 
-* なにをどう変更したか
-* ロジックがどういう手順で動くのか、
-* DBからどういうクエリで何をとってそれに何を処理するのか、
-* などなど、
-* レビュワーにわかるように、技術的視線での変更概要説明
+## UI
 
+| before                                                                                                                                                              | after                                                                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Simulator Screen Shot - iPhone 11 - 2020-02-03 at 13 51 04](https://user-images.githubusercontent.com/39001773/73813766-575da980-4824-11ea-8403-ac0fda255b1d.png) | ![Simulator Screen Shot - iPhone 11 - 2020-02-03 at 13 50 21](https://user-images.githubusercontent.com/39001773/73813794-70fef100-4824-11ea-8675-08796ac36328.png) |
 
+- Gif Animation
 
-## UIに対する変更
+## Concerns
 
-* 変更前のスクリーンショット
-* 変更後のスクリーンショット
+- where you feel nervous.
+- where you want reviewers to check intensively.
 
-before | after
----- | ----
-![Simulator Screen Shot - iPhone 11 - 2020-02-03 at 13 51 04](https://user-images.githubusercontent.com/39001773/73813766-575da980-4824-11ea-8403-ac0fda255b1d.png) | ![Simulator Screen Shot - iPhone 11 - 2020-02-03 at 13 50 21](https://user-images.githubusercontent.com/39001773/73813794-70fef100-4824-11ea-8675-08796ac36328.png)
+## Priority of Review
 
-
-* Gif 動画
-
-　
- 
-## 特にレビューをお願いしたい箇所
-特にチェックをお願いしたいポイントを簡潔に記述する
-
-
-## レビュー優先度
-* [x] 最速でお願いしたい
-* [ ] なるべく早く(なるはや)
-* [ ] お時間あるときでOK
+- [x] No time!! Can't wait any longer.
+- [ ] As fast as possible please. Date Limit is ◯/◯.
+- [ ] Please review when you have time.
