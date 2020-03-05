@@ -1,6 +1,6 @@
 ## Why Guideline?
 
-While code review is recognized as a valuable tool for improving the quality of software projects, code review comments that are perceived as being unclear or harsh can have unfavorable consequences: slow reviews, blocked dependent code reviews, negative emotions, or negative perceptions of other contributors or colleagues.
+While code review is recognized as a valuable tool for improving the quality of software projects, code review comments that are perceived as being unclear or harsh can have unfavorable consequences: slow reviews, blocked dependent code reviews, negative emotions, or negative perceptions of other contributors or colleagues
 
 ## Reviewer
 
