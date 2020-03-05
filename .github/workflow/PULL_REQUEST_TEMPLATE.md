@@ -11,9 +11,9 @@
 
 ## Overviews
 
-- Why you implement Codes?
+- Why did you implement Codes?
 - What is the problem?
-- How do you solve this problem?
+- How did you solve this problem?
 
 ## Techniques
 
